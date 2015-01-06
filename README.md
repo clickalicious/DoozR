@@ -71,3 +71,7 @@ Thanks to our sponsors and supporters:
     <img src="https://www.jetbrains.com/phpstorm/documentation/docs/logo_phpstorm.png"></img>
 </a>
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/clickalicious/doozr/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
